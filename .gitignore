@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# FastAPI
+*.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Node Modules
+frontend/node_modules/
+
+# React Build Files
+frontend/build/
+frontend/dist/
+
+# OS Files
+.DS_Store
+Thumbs.db
